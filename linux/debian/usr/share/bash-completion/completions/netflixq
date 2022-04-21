@@ -1,0 +1,6 @@
+netflixq_list=(
+  -h --help
+  -b --browser
+  -q --query
+)
+complete -W "$(printf '%s\n' "${netflixq_list[@]}")" netflixq
