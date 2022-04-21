@@ -4,8 +4,6 @@
 
 Load Netflix in a browser with search options&#46;
 
-***DISCLAIMER***: <mark>&nbsp;&nbsp;&nbsp;***THIS IS STILL UNDER CONSCTRUCTION, COMING VERY SOON!***&nbsp;&nbsp;&nbsp;</mark>
-
 - [Netflix Query](#netflix-query)
   - [About](#about)
     - [Description](#description)
