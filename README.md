@@ -28,6 +28,7 @@ Load Netflix in a browser with search options&#46;
     - [Help Screen](#help-screen)
     - [Demo Screen](#demo-screen)
   - [LICENSE](#license)
+  - [Support Me If You Like](#support-me-if-you-like)
 
 ---
 
@@ -203,6 +204,8 @@ This information is generated in a *GitHub Action* immediately after the success
 </details>
 
 ---
+
+## Support Me If You Like
 
 If you like this project and care to donate to my ***PayPal***:
 
